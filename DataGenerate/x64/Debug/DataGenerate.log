@@ -1,0 +1,6 @@
+﻿  DataGenerate.cpp
+D:\HocLapTrinh\University\DataGenerate\DataGenerate\DataGenerate.cpp(8,13): error C2512: 'Student': no appropriate default constructor available
+D:\HocLapTrinh\University\DataGenerate\DataGenerate\Student.h(8,7): message : see declaration of 'Student'
+  Student.cpp
+D:\HocLapTrinh\University\DataGenerate\DataGenerate\Student.cpp(98,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
